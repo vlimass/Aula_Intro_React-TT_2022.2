@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.principal {
+    background-color: rgb(16, 16, 16);
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.principal h1 {
+    color: rgb(101, 101, 243);
+    margin-bottom: 2.5rem;
+}
+
+.principal .posts {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}

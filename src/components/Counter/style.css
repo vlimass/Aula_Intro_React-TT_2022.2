@@ -1,0 +1,15 @@
+button {
+    padding: 1rem 1.5rem;
+    background-color: white;
+    border: solid 3px rgb(101, 101, 243);
+    border-radius: 15px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: rgb(101, 101, 243);
+}
+
+button:hover {
+    cursor: pointer;
+    filter: brightness(1.5);
+    transition: .2s all;
+}

@@ -1,46 +1,35 @@
-# Getting Started with Create React App
+# Aula Introdução ao React - TT 2022.2
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Conteúdo dado durante o Treinamento Técnico de 2022.2 da EJCM para ensino dos fundamentos do React.
 
-## Available Scripts
+## Sobre o projeto 
 
-In the project directory, you can run:
+O projeto tem como finalidade a demonstração de conceitos do React para aprendizado.
 
-### `npm start`
+### ⚙️ Tecnologias abordadas
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- React.js 
+- TypeScript 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### 💡 Conceitos explorados 
 
-### `npm test`
+- Definição do React
+- Compreensão da estrutura de pastas criadas durante a inicialização de um projeto React por meio do Create-React-App
+- O que é a extensão Jsx e Tsx
+- Introdução ao TypeScript
+- Fundamentos do React: componentes, propriedades e estados
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Executando o projeto...
 
-### `npm run build`
+Após realizadas as instalações necessárias para a execução de uma aplicação React, basta abrir o terminal na pasta do projeto e e rodar o comando:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+npm start 
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Pronto! Sua aplicação já estará sendo executada para o desenvolvimento.
+Abra [http://localhost:3000](http://localhost:3000) para vê-la no browser.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Mais informações
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+É possível encontrar mais informações através da documentação do React. Para acessá-la, entre em [React documentation](https://reactjs.org/).
